@@ -12,7 +12,7 @@ while(attempts>0)
             
         }
         else if(guess >rnum){
-            console.log("You r Guess is To high");
+            console.log("Your Guess is To High");
             
         }
         else{
